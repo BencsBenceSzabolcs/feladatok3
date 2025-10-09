@@ -21,6 +21,18 @@ namespace Feladatok
             {
                 Console.WriteLine("Jó estét!");
             }
+            //2
+            Console.WriteLine("Adjon meg egy összeget:");
+            int osszeg = int.Parse(Console.ReadLine());
+            Console.WriteLine("Adja meg hány évre akarja lekötni:");
+            int ev = int.Parse(Console.ReadLine());
+            Console.WriteLine("Adja meg a kamatot(%):");
+            double kamat = double.Parse(Console.ReadLine());
+
+            double kamat2 = kamat / 100;
+
+            double vissza = osszeg + osszeg * ev * kamat2;
+            Console.WriteLine($"A visszajaro osszeg: {vissza}");
         }
     }
 }

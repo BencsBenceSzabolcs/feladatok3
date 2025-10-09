@@ -12,3 +12,4 @@ C:\Users\BencsBSz\source\repos\Feladatok\Feladatok\obj\Debug\net8.0\refint\Felad
 C:\Users\BencsBSz\source\repos\Feladatok\Feladatok\obj\Debug\net8.0\Feladatok.pdb
 C:\Users\BencsBSz\source\repos\Feladatok\Feladatok\obj\Debug\net8.0\Feladatok.genruntimeconfig.cache
 C:\Users\BencsBSz\source\repos\Feladatok\Feladatok\obj\Debug\net8.0\ref\Feladatok.dll
+C:\Users\BencsBSz\source\repos\Feladatok\Feladatok\obj\Debug\net8.0\Feladatok.sourcelink.json
