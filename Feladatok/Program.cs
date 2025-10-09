@@ -33,6 +33,10 @@ namespace Feladatok
 
             double vissza = osszeg + osszeg * ev * kamat2;
             Console.WriteLine($"A visszajaro osszeg: {vissza}");
-        }
+            //3
+            //nem tudom :(
+            Console.WriteLine("Adja meg a futó sebességét(m/s):");
+            int sebesseg = int.Parse(Console.ReadLine());
+        }   
     }
 }
