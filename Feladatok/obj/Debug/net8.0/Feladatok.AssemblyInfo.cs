@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feladatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d473d39e19d0cc3f20b416dc10d0385cb57f0a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02091da5726ef022badef2ad48a0d0f73095095b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feladatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feladatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
